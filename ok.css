@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+.f{
+    float: left;
+}
+.box1{
+    width: 45%;
+    height: 70vh;
+}
+.box2{
+width:55%;
+height: 100vh;
+background-color:lightgreen;
+color:aliceblue;
+}
+.c{
+    clear: both;
+}
+.img-100{
+    width: 696px;
+    height: 100vh;
+
+}
+.align{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-weight:bold;
+    font-size: 40px;
+    @media screen and (max-width: 100px;)
+}
+.a{
+    text-align: center;
+}
+@media screen and (max - width:3000px) and (min-width:300px)
+{
+
+}
